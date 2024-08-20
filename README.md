@@ -1,4 +1,6 @@
 # Starlink Analysis
+![starlink](/assets/starlink.png?raw=true "Starlink")
+
 This project orchestrates a holistic comparison and assessment of the reliability and performance attributes intrinsic to Wi-Fi, Ethernet, and Starlink networks within the domain of computer networks. It is comprised of three interconnected stages: meticulous data collection using traceroute and speedtest tools, comprehensive data analysis, and visualization of outcomes to foster an encompassing comparison. This solution seeks to provide clarity by gathering empirical data, conducting systematic data analysis, validate inferences through comparative evaluation, and provide actionable insights to improve network performance in future work.
 
 ## About this project
